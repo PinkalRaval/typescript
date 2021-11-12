@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/lodash": "^4.14.176",
+    "cross-fetch": "^3.1.4",
+    "lodash": "^4.17.21"
+  }
+}
